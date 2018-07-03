@@ -1,20 +1,23 @@
 *{
-	box-sizing: border-box;
-    
-	/*transition: all 0.5s ease-in-out;*/
+	box-sizing: border-box;    
+	transition: all 0.5s ease-in-out;
 }
 a {
 	text-decoration: none;
 }
 body {
-	font-size: 20px;
+	font-size: 80px;
 }
 p {
-color: red; 
+color: green; 
 text-align: center;
 }
 .wraper {
-	align-items: center;
-	font-size: 14px;
+	align-items: right;
+	font-size: 16px;
 }
+.list {
+	align-items: left;
+	font-size: 14px;
 
+}
