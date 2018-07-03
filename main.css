@@ -1,24 +1,23 @@
 *{
-	box-sizing: border-box;
-    
-	/*transition: all 0.5s ease-in-out;*/
+	box-sizing: border-box;    
+	transition: all 0.5s ease-in-out;
 }
 a {
 	text-decoration: none;
 }
 body {
-	font-size: 40px;
+	font-size: 80px;
 }
 p {
 color: green; 
 text-align: center;
 }
 .wraper {
-	align-items: center;
+	align-items: right;
 	font-size: 16px;
 }
 .list {
-	align-items: center;
+	align-items: left;
 	font-size: 14px;
 
 }
