@@ -7,14 +7,18 @@ a {
 	text-decoration: none;
 }
 body {
-	font-size: 20px;
+	font-size: 40px;
 }
 p {
-color: red; 
+color: green; 
 text-align: center;
 }
 .wraper {
 	align-items: center;
-	font-size: 14px;
+	font-size: 16px;
 }
+.list {
+	align-items: center;
+	font-size: 14px;
 
+}
