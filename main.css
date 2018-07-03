@@ -1,6 +1,10 @@
 *{
 	box-sizing: border-box;
+    
 	/*transition: all 0.5s ease-in-out;*/
+}
+a {
+	text-decoration: none;
 }
 body {
 	font-size: 20px;
@@ -9,6 +13,8 @@ p {
 color: red; 
 text-align: center;
 }
-div {
-	font-size: 14px; 
+.wraper {
+	align-items: center;
+	font-size: 14px;
 }
+
